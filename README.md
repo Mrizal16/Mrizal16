@@ -36,3 +36,13 @@ I build modern web applications and enjoy exploring
 
 ---
 
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mrizal16/Mrizal16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
