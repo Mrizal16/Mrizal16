@@ -7,6 +7,12 @@
 I build modern web applications and enjoy exploring  
 **Backend Development and Internet of Things.**
 
+<br>
+
+<a href="https://portofolio-mrizal.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -36,12 +42,26 @@ I build modern web applications and enjoy exploring
 
 ---
 
-
-
 ## 🐍 GitHub Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Mrizal16/Mrizal16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+Check out my projects and work experience on my personal portfolio.
+
+<br><br>
+
+<a href="https://portofolio-mrizal.netlify.app/">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-portofolio--mrizal.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
 
 </div>
