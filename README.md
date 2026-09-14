@@ -13,6 +13,10 @@ I build modern web applications and enjoy exploring
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
+<a href="mailto:EMAIL_KAMU@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -68,7 +72,19 @@ Explore my projects, experience, and web development work.
 
 ---
 
+## 📫 Contact Me
+
 <div align="center">
+
+<a href="mailto:s2708jac@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://portofolio-mrizal.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<br><br>
 
 ### 💻 Open to Opportunities
 
