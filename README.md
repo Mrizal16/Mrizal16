@@ -56,12 +56,23 @@ I build modern web applications and enjoy exploring
 
 <div align="center">
 
-Check out my projects and work experience on my personal portfolio.
+Explore my projects, experience, and web development work.
 
 <br><br>
 
 <a href="https://portofolio-mrizal.netlify.app/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-portofolio--mrizal.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-portofolio--mrizal.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Open to Opportunities
+
+I'm interested in opportunities related to  
+**Web Development • Backend Development • IoT**
 
 </div>
