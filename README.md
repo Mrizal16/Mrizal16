@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rizal 👋
+# Hi, I'm Muhammad Rizal Firmansyah 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Informatics+Graduate+from+PENS;Full-Stack+Web+Developer;Backend+Developer;IoT+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
