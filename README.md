@@ -37,9 +37,8 @@ I build modern web applications and enjoy exploring
 ---
 
 
----
 
-## 🐍 Contribution Activity
+## 🐍 GitHub Contribution Activity
 
 <div align="center">
 
